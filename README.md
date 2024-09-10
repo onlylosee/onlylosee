@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/a8ee2aef-3a1e-4c19-b7d6-0560d4e65181"/>
+<img src="https://github.com/onlylosee/onlylosee/blob/main/header.gif?raw=true"/>
 
 
 <div id="user-content-toc">
