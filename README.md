@@ -48,12 +48,6 @@
 
 ---
 
-<h3 align="center"> 🐍 Snake eating my contribution: </h3>
-
-![snake gif](https://github.com/onlylosee/onlylosee/blob/output/github-contribution-grid-snake.svg)
-
----
-
 <h3 align="center">🔥   My github stats :</h3>
 
 <br>
