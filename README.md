@@ -20,10 +20,11 @@
 
 ## 👨‍💻 <b><i>About Me:</i></b>
 
-##### 👨‍🎓 I am a student programmer from Russia 🇷🇺 
-##### 🖥️ I have been programming for 2 years  <br>
-##### 📖 During these 2 years, I got acquainted with programming languages such as <b><i>Java, Python, Kotlin</i></b> <br>
-##### ℹ️ I studied <b><i>HTML</i></b> with <b><i>CSS</i></b> on my own, but I didn't touch JS, etc.
+-   👨‍🎓 I am a student programmer from Russia 🇷🇺 
+-   🖥️ I have been programming for 2 years  <br>
+-   📖 During these 2 years, I got acquainted with programming languages such as <b><i>Java, Python, Kotlin</i></b> <br>
+-   ℹ️ I studied <b><i>HTML</i></b> with <b><i>CSS</i></b> on my own, but I didn't touch JS, etc.
+-   🥇 [My awards](https://drive.google.com/drive/folders/1Ij8TWjpgEW1p7_V3C7PiAfhwI8EBK6kp?usp=sharing)
 
 ###
 
