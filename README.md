@@ -20,9 +20,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=onlylosee&style=flat-square&color=blue" alt=""/>
-</div>
+
 
 ###
 
@@ -72,6 +70,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=onlylosee&count_private=false&theme=transparent&showicons=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlylosee&langs_count=3&theme=transparent"/>
 </p>
-<div id="badges" align="center">
-  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=onlylosee&style=flat-square&color=blue" alt=""/>
 </div>
