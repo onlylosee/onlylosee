@@ -48,7 +48,9 @@
 
 ---
 
-<h3 align="center"> 🕐 My activity: </h3>
+<h3 align="center"> 🐍 Snake eating my contribution: </h3>
+
+![snake gif](https://github.com/onlylosee/onlylosee/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
